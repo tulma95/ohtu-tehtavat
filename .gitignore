@@ -4,3 +4,6 @@ build/
 .nb-gradle/
 .idea/
 nbproject/
+.settings/
+.project
+.classpath
